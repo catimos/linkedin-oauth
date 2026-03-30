@@ -2,7 +2,7 @@ Package.describe({
   name: 'catimos:linkedin-oauth',
   version: '6.0.0',
   summary: 'LinkedIn OAuth flow, use with Meteor 1.6.1 & up',
-  git: 'https://github.com/catimos/catimos-linkedin-oauth',
+  git: 'https://github.com/catimos/linkedin-oauth',
   documentation: 'README.md'
 });
 
